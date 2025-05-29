@@ -1,0 +1,11 @@
+.container {
+  display: flex;
+  margin: 1rem;
+  border-radius: 0.625rem;
+  overflow: hidden;
+}
+
+.image {
+  width: 100%;
+  height: auto;
+}

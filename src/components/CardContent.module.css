@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+.sub-heading {
+  text-align: center;
+  font-family: "Outfit";
+  font-weight: 700;
+  font-size: calc(22rem / 16);
+  line-height: 120%;
+  letter-spacing: 0px;
+  color: #1F314F;
+  margin-top: 10px;
+  margin-bottom: 16px;
+}
+
+.description {
+  text-align: center;
+  font-family: "Outfit";
+  font-weight: 400;
+  font-size: calc(15rem / 16);
+  line-height: 140%;
+  letter-spacing: 0.2px;
+  color: #68778D;
+  margin-top: 0px;
+  margin-bottom: 40px
+}
