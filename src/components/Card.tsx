@@ -1,13 +1,13 @@
-import classes from "./Card.module.css"
+import classes from "./Card.module.css";
 
 interface CardProps {
   children: React.ReactNode;
 }
 
-export default function Card({children}: CardProps) {
+export default function Card({ children }: CardProps) {
   return (
     <div className={classes.container}>
-      {children}
+      <div className={classes.card}>{children}</div>
     </div>
-  )
+  );
 }

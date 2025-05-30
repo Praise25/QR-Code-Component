@@ -1,8 +1,14 @@
-.container {
+.container{
+  display: flex;
+  align-items: center;
+  height: 100vh;
+}
+
+.card {
   display: flex;
   flex-direction: column;
   align-items: center;
-  margin: 5rem auto;
+  margin: 0 auto;
   border-radius: 1.25rem;
   max-width: 320px;
   background-color: #ffffff;
