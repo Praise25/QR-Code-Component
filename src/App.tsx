@@ -6,10 +6,12 @@ import "./App.css";
 
 function App() {
   return (
-    <Card>
-      <CardImage />
-      <CardContent />
-    </Card>
+    <main className="container">
+      <Card>
+        <CardImage />
+        <CardContent />
+      </Card>
+    </main>
   );
 }
 
