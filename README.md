@@ -38,6 +38,3 @@ Major takeaway from this project was working with images in containers and worki
 
 - Frontend Mentor - [@Praise25](https://www.frontendmentor.io/profile/Praise25)
 - LinkedIn - [Anene Praise](https://www.linkedin.com/in/praise-anene-07776416a/)
-
-
-**Testing Git Credential Manager Caching**
