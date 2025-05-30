@@ -14,7 +14,7 @@
 
 .description {
   text-align: center;
-  font-family: "Outfit";
+  font-family: "Outfit", sans-serif;
   font-weight: 400;
   font-size: calc(15rem / 16);
   line-height: 140%;
